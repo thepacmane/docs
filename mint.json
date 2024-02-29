@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Pacmane",
   "logo": {
     "dark": "/logo/pac.png",
     "light": "/logo/pac.png"
@@ -17,20 +17,14 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Twitter",
+      "url": "https://twitter.com/thepacmane"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "View Site",
+    "url": "https://pacmane.com"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Documentation",
@@ -39,13 +33,13 @@
     },
     {
       "name": "Community",
-      "icon": "slack",
+      "icon": "telegram",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Twitter",
+      "icon": "twitter",
+      "url": "https://twitter.com/thepacmane"
     }
   ],
   "navigation": [
