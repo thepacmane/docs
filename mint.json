@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Pacmane",
   "logo": {
-    "dark": "/logo/pac.png",
-    "light": "/logo/pac.png"
+    "dark": "https://pbs.twimg.com/profile_images/1763173968138162177/eKDnXkC2_normal.jpg",
+    "light": "https://pbs.twimg.com/profile_images/1763173968138162177/eKDnXkC2_normal.jpg"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -27,11 +27,6 @@
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
       "name": "Community",
       "icon": "telegram",
       "url": "https://mintlify.com/community"
@@ -47,33 +42,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "tokenomics",
-        "development"
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "tokenomics"
       ]
     }
   ],
