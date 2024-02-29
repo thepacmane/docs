@@ -6,7 +6,7 @@
     "light": "https://pbs.twimg.com/profile_images/1763173968138162177/eKDnXkC2_normal.jpg"
   },
   "favicon": "https://pbs.twimg.com/profile_images/1763173968138162177/eKDnXkC2_normal.jpg",
-  "colors": {
+    "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
     "dark": "#0D9373",
@@ -25,6 +25,7 @@
     "name": "View Site",
     "url": "https://pacmane.com"
   },
+
     "tabs": [
     {
       "name": "API Reference",
@@ -54,7 +55,5 @@
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/thepacmane"
-  }
-}
-  }
+  }  
 }
