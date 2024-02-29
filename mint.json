@@ -3,7 +3,7 @@
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/pac.png",
-    "light": "/logo/light.svg"
+    "light": "/logo/pac.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
